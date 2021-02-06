@@ -1,4 +1,4 @@
-baseURL = "https://www.fugitivepigments.org/"
+baseURL = "https://fugitive-pigments.github.io/fugitive-pigments/"
 languageCode = "en-us"
 title = "Fugitive Pigments | an unusual arts non-profit"
 theme = "timer-hugo"
